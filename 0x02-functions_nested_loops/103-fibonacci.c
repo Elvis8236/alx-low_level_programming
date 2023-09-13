@@ -1,13 +1,9 @@
 #include <stdio.h>
-
-
 /**
   * main - the main printing funtion
   * less than 4000000.
   * Return: 0.
   */
-
-
 int main(void)
 {
 	int i = 0;
